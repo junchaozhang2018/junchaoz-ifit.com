@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Test Fail
+          Test Fail On Purpose
         </a>
       </header>
     </div>
