@@ -1,3 +1,5 @@
+![Node CI](https://github.com/junchaozhang2018/junchaoz-ifit.com/workflows/Node%20CI/badge.svg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
